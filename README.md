@@ -1,0 +1,2 @@
+# mywebsite
+An educational platform
